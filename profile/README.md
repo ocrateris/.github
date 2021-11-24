@@ -7,7 +7,7 @@
          <a href="https://www.apollographql.com/"><img src="https://img.shields.io/badge/Made%20with-Apollo%20GraphQL-1f425f.svg" alt="MADE WITH APOLLO" /></a>
         <a href=""><img src="https://visitor-badge.glitch.me/badge?page_id=ocrateris.ocrateris" alt="VISITOR COUNT" /></a>
         <a href="https://badges.pufler.dev"><img src="https://badges.pufler.dev/repos/ocrateris" alt="REPO COUNT" /></a>
-        <a href="https://badges.pufler.dev"><img src="https://img.shields.io/github/stars/ocrateris/.github.svg?style=social&label=Star&maxAge=2592000" alt="REPO COUNT" /></a>
+        <a href="https://badges.pufler.dev"><img src="https://img.shields.io/github/stars/ocrateris/.github.svg?style=social&label=Star&maxAge=2592000" alt="STARS COUNT" /></a>
         </p>
     </div>
     <p align="center">
