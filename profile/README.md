@@ -1,6 +1,6 @@
 
 <div align="center">
-    <h2>Welcome to Ocrateris</h2>
+    <h1>Welcome to Ocrateris</h1>
     <p>A Serverless, GraphQL Reference Architecture for the Modern Enterprise</p>
     <div>
          <a href="https://www.apollographql.com/"><img src="https://img.shields.io/badge/Made%20with-Apollo%20GraphQL-1f425f.svg" alt="MADE WITH APOLLO" /></a>
@@ -18,11 +18,17 @@
 </div>
 
 ## About
+Ocrateris--aka Delta Crateris--is a solitary star in the southern constellation of Crater. Often associated with a crow or raven, legend has it that Crater was cast into the sky by Apollo. Here, Ocrateris serves as a set of documents and implementations that provide recommended structures and integrations of cloud native products and services to form a serverless, graphql solution. Ocrateris seeks to embody accepted industry best practices that suggest the optimal delivery method for the technologies specified herein.
 
-## Features
+### Features
+- **One Unified Graph**: Maximizes the value of GraphQL. Code, queries, skills, and experience made portable across teams. Federated implementation across multiple backend services.
+- **Multiple AWS Account Strategy**: Isolate and manage business applications and data in discrete environments to enhance operational excellence, security, reliability, and cost optimization.
+- **Infrastructure as Code**:
 
 ## Installation
 
 ## Documentation
+
+## Resources
 
 ## License
